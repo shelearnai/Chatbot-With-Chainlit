@@ -1,0 +1,7 @@
+chainlit
+openai
+python-dotenv
+langchain-community
+transformers
+torch
+-e .
