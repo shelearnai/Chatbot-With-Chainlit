@@ -31,10 +31,17 @@ pip install -r requirements.txt
 chainlit init
 ```
 
-![Uploading image.png…]()
 
 
 
 ```bash
 chainlit run chatbot.py
+
 ```
+
+<img width="1269" alt="chainlit" src="https://github.com/shelearnai/Chatbot-With-Chainlit/assets/6790548/257f4029-5b21-4372-9a86-3fa2c3353ccd">
+
+
+
+
+
